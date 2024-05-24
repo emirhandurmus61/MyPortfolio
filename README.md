@@ -1,7 +1,7 @@
 # ASP.NET CORE 6.0 İLE DİNAMİK PORTFOLYO SİTESİ
 
 Bu projede Asp.Net Core 6.0 ile dinamik admin paneli ve portfolyo sitesidir. Admin paneli ile veritabanına dinamik şekilde ulaşabilmeyi ve değişiklik yapabilmeyi sağlamaktadır. 
-CRUD ile ekleme silme güncelleme ve okuma işlemler gerçekleşitirilebilir. Denyim ekleme silme güncelleme işlemleri. ToDoList ile gelen mesajları görebilme admin panelinden siteye gidebilmek gibi işlemler. Site ile ilgili istatistikleri görünteleyebilmeyi sağlamaktadır.
+CRUD ile ekleme silme güncelleme ve okuma işlemler gerçekleşitirilebilir. Deneyim ekleme silme güncelleme işlemleri. ToDoList ile gelen mesajları görebilme admin panelinden siteye gidebilmek gibi işlemler, site ile ilgili istatistikleri görünteleyebilmeyi sağlamaktadır.
 
 # KULLANILAN TEKNOLOJİLER
 
