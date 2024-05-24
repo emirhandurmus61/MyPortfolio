@@ -5,12 +5,12 @@ CRUD ile ekleme silme güncelleme ve okuma işlemler gerçekleşitirilebilir. De
 
 KULLANILAN TEKNOLOJİLER
 
-ASP.NET Core 6.0
-Entity Framework
-Linq Sorguları
-MSSQL Server
-Crud İşlemleri
-Code First
+ASP.NET Core 6.0,        
+Entity Framework,
+Linq Sorguları,
+MSSQL Server,
+Crud İşlemleri,
+Code First,
 Migration
 
 PORTFOLYA SİTESİ ANASAYFA
